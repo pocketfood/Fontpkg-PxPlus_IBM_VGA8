@@ -23,3 +23,6 @@ Remove Package
 ```shell
 sudo pacman -R pxplus-ibm-vga8
 ```
+
+
+Please Vote for my package :)
