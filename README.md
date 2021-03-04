@@ -22,3 +22,4 @@ Remove Package
 ```shell
 sudo pacman -R pxplus-ibm-vga8
 ```
+image:: https://www.repostatus.org/badges/latest/active.svg
