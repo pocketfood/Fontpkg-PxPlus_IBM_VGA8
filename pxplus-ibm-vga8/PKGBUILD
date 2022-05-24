@@ -2,7 +2,7 @@
 pkgname=pxplus-ibm-vga8
 pkgver=1.0
 pkgrel=1
-license=('unknown')
+license=('CC BY-SA 4.0')
 pkgdesc="Font Package"
 arch=('any')
 url="https://github.com/pocketfood/Fontpkg-PxPlus_IBM_VGA8"
