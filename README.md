@@ -1,6 +1,8 @@
 # Fontpkg-PxPlus_IBM_VGA8 For AUR
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
+A monospace system font in the styles of regular, italic and underline.  
+
 https://aur.archlinux.org/packages/pxplus-ibm-vga8/
 
 Install it via yaourt 
@@ -13,7 +15,9 @@ If installed use this to upgrade your package
 pacman -u pxplus-ibm-vga8-1.0-1-any.pkg.tar.xz
 ```
 
-Use Pacman to manage your TTF
+Install the font using pacman.
+Pull a snapshot from AUR or this repo then unarchive and execute whats below
+
 ```shell
 cd /Fontpkg-PxPlus_IBM_VGA8
 makepkg -sri
